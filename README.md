@@ -1,16 +1,30 @@
-## Hi there 👋
+# Efe Pınarbaşı
+## CS Student @ Topkapi University
 
-<!--
-**efepinarbasi/efepinarbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+> Web Development
+* HTML, CSS
+* JavaScript
 
-Here are some ideas to get you started:
+> Backend
+* NodeJS
+* Dart
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Frontend
+* React
+* React Native
+* Flutter
+
+## Tools
+> Artificial Intelligence
+* Antigravity
+* Cursor
+
+> CLI
+* Git
+* Bash
+
+## Interests
+* Multi Threading
+* Parallelism
+* Cyber Security
